@@ -1,5 +1,5 @@
 # Projeto clone Yu-Gi-Oh!
-Um projeto clonando cartas do Yu-Gi-Oh! ![alt text](image.png)
+Um projeto clonando cartas do Yu-Gi-Oh! 
 
 [<img src="Animação-tela.gif" alt="gif da tela do projeto Clone Yu-Gi-Oh!">](https://sthivemmartins.github.io/projeto-clone-yu-gi-oh/)
 
@@ -18,3 +18,5 @@ git clone <url>
 ````
 cd repositorio-com-readme
 ````
+
+[def]: image.png
