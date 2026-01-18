@@ -1,4 +1,7 @@
 # Projeto clone Yu-Gi-Oh!
+
+link: https://sthivemmartins.github.io/projeto-clone-yu-gi-oh/
+
 Um projeto clonando cartas do Yu-Gi-Oh! 
 
 [<img src="Animação-tela.gif" alt="gif da tela do projeto Clone Yu-Gi-Oh!">](https://sthivemmartins.github.io/projeto-clone-yu-gi-oh/)
